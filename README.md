@@ -1,1 +1,1 @@
-# bdivya-9125-soc-odyssey-week1-RTL-Synthesis
+# soc-odyssey-week1-RTL-Synthesis
